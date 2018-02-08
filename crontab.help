@@ -1,0 +1,3 @@
+crontab 任务添加在/etc/cron.d/目录下的fetGpsData文件中，因为执行的python文件中有文件的操作。
+
+TODO:但是为什么这样做的原因尚不清楚。
